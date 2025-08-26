@@ -53,4 +53,4 @@ Now with **FPS Uncap** and **Reduce Ping using Bloxstrap FFLAGS**! ⚡🚀
 
 1. Download or clone this repo:  
 ```bash
-git clone https://github.com/YourUsername/MangoBooster.git
+git clone https://github.com/capybara889/MangoBoosterv3.git
